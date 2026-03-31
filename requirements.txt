@@ -1,0 +1,8 @@
+PyGithub
+requests
+python-dotenv
+jinja2
+weasyprint
+GitPython
+pdfplumber
+groq
